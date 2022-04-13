@@ -24,9 +24,8 @@ params:
     description: "パダワンのブログ"
     keywords: [Blog, Portfolio, Programming, Learning]
     author: Takumi Sato
-    # author: ["Me", "You"] # multiple authors
     images: ["https://twitter.com/padawan_e15/photo"]
-    DateFormat: "January 2, 2006"
+    DateFormat: "2006/01/02"
     defaultTheme: auto # dark, light
     disableThemeToggle: false
 
