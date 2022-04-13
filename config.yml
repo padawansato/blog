@@ -1,5 +1,8 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+canonifyurls: true
+publishDir: "docs"
+
+baseURL: "https:/psato.github.io"
+title: パダワン's blog
 paginate: 5
 theme: PaperMod
 
@@ -17,12 +20,12 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: ExampleSite
-    description: "ExampleSite description"
-    keywords: [Blog, Portfolio, PaperMod]
-    author: Me
+    title: Super Duper Tomb on the Internet.
+    description: "パダワンのブログ"
+    keywords: [Blog, Portfolio, Programming, Learning]
+    author: Takumi Sato
     # author: ["Me", "You"] # multiple authors
-    images: ["<link or path of image for opengraph, twitter-cards>"]
+    images: ["https://twitter.com/padawan_e15/photo"]
     DateFormat: "January 2, 2006"
     defaultTheme: auto # dark, light
     disableThemeToggle: false
@@ -76,11 +79,11 @@ params:
 
     socialIcons:
         - name: twitter
-          url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
+          url: "https://twitter.com/padawan_e15"
+        # - name: stackoverflow
+          # url: "https://stackoverflow.com"
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/psato"
 
     analytics:
         google:

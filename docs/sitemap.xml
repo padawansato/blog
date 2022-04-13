@@ -2,19 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://padawan.okinawa/posts/my-first-post/</loc>
+    <loc>https:///psato.github.io/posts/my-first-post/</loc>
     <lastmod>2022-04-08T22:19:12+09:00</lastmod>
   </url><url>
-    <loc>https://padawan.okinawa/posts/</loc>
+    <loc>https:///psato.github.io/posts/</loc>
     <lastmod>2022-04-08T22:19:12+09:00</lastmod>
   </url><url>
-    <loc>https://padawan.okinawa/</loc>
+    <loc>https:///psato.github.io/</loc>
     <lastmod>2022-04-08T22:19:12+09:00</lastmod>
   </url><url>
-    <loc>https://padawan.okinawa/categories/</loc>
+    <loc>https:///psato.github.io/categories/</loc>
   </url><url>
-    <loc>https://padawan.okinawa/series/</loc>
-  </url><url>
-    <loc>https://padawan.okinawa/tags/</loc>
+    <loc>https:///psato.github.io/tags/</loc>
   </url>
 </urlset>

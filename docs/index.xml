@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>パダワンのブログ</title>
-		<link>https://padawan.okinawa/</link>
-		<description>Recent content on padawan.okinawa</description>
-		<generator>Hugo -- gohugo.io</generator>
-		<language>en-us</language>
-		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Fri, 08 Apr 2022 22:19:12 +0900</lastBuildDate>
-		<atom:link href="https://padawan.okinawa/index.xml" rel="self" type="application/rss+xml" />
-		<item>
-			<title>My First Post</title>
-			<link>https://padawan.okinawa/posts/my-first-post/</link>
-			<pubDate>Fri, 08 Apr 2022 22:19:12 +0900</pubDate>
-			<guid>https://padawan.okinawa/posts/my-first-post/</guid>
-			<description>
-			
-			</description>
-		</item>
-	</channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>パダワン&#39;s blog</title>
+    <link>https:///psato.github.io/</link>
+    <description>Recent content on パダワン&#39;s blog</description>
+    <image>
+      <url>https://twitter.com/padawan_e15/photo</url>
+      <link>https://twitter.com/padawan_e15/photo</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 08 Apr 2022 22:19:12 +0900</lastBuildDate><atom:link href="https:///psato.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https:///psato.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 08 Apr 2022 22:19:12 +0900</pubDate>
+      
+      <guid>https:///psato.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
