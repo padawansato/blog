@@ -1,11 +1,12 @@
 canonifyurls: true
 publishDir: "docs"
 
-baseURL: "https:/psato.github.io"
+baseURL: "https:/psato.github.io/padawan.okinawa/"
 title: パダワン's blog
 paginate: 5
 theme: PaperMod
 
+languageCode: "ja"
 enableRobotsTXT: true
 enableEmoji : true
 buildDrafts: false
