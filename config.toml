@@ -1,0 +1,3 @@
+baseURL = "https:/psato.github.io"
+canonifyurls　= true
+publishDir = "docs"
