@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>padawan_e15&#39; blog</title>
-    <link>https://psato.github.io/blog/</link>
-    <description>Recent content on padawan_e15&#39; blog</description>
+    <title>Posts on padawan_e15&#39; blog</title>
+    <link>https://psato.github.io/blog/posts/</link>
+    <description>Recent content in Posts on padawan_e15&#39; blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Oct 2022 21:22:08 +0900</lastBuildDate><atom:link href="https://psato.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Oct 2022 21:22:08 +0900</lastBuildDate><atom:link href="https://psato.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github pages &#43; Hugo &#43;ドメインでブログを作成した</title>
       <link>https://psato.github.io/blog/posts/2022-10-09/</link>
