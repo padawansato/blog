@@ -1,4 +1,4 @@
-baseURL = "https://psato.github.io/blog"
+baseURL = "https://psato.github.io/blog/"
 publishDir = "docs"
 languageCode = 'ja'
 title = "padawan_e15' blog"
