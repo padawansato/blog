@@ -5,8 +5,10 @@
 $ hugo serve -D
 # 記事作成
 $ hugo new posts/hoge.md
+# サーバー停止
+# Cntl + C
 # 静的記事生成
-$ hugo
+$ hugo -D
 # 諸々をリモートリポジトリへ push
 $ git commit -am "Add blog post"
 ```
