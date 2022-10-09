@@ -10,3 +10,7 @@ $ hugo
 # 諸々をリモートリポジトリへ push
 $ git commit -am "Add blog post"
 ```
+
+- [Github Actions を確認](https://github.com/psato/blog/actions)
+- [ブログ](https://github.com/psato/blog/)を確認
+
