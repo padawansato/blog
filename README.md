@@ -1,5 +1,6 @@
 # 問題点
-- css が読み込まれていない？
+- css が読み込まれるのがかなり遅い。
+
 # 記事のアップデート方法
 
 ```zsh
@@ -7,6 +8,7 @@
 $ hugo serve -D
 # 記事作成
 $ hugo new posts/hoge.md
+# s/draft\: true/draft\: false/g
 # サーバー停止
 # Cntl + C
 # 静的記事生成
