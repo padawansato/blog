@@ -1,3 +1,5 @@
+# 問題点
+- css が読み込まれていない？
 # 記事のアップデート方法
 
 ```zsh
@@ -8,7 +10,7 @@ $ hugo new posts/hoge.md
 # サーバー停止
 # Cntl + C
 # 静的記事生成
-$ hugo -D
+$ hugo
 # 諸々をリモートリポジトリへ push
 $ git commit -am "Add blog post"
 ```
