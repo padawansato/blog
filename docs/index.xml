@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>padawan_e15&#39; blog</title>
-    <link>https://psato.github.io/</link>
+    <link>https://psato.github.io/blog/</link>
     <description>Recent content on padawan_e15&#39; blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://psato.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://psato.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
