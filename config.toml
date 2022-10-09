@@ -1,5 +1,0 @@
-baseURL = "https://padawan.okinawa"
-publishDir = "docs"
-languageCode = 'ja'
-title = "padawan_e15' blog"
-theme = "ananke"
